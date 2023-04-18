@@ -1,0 +1,3 @@
+lib/AGL
+.cache/clangd/index
+build
